@@ -1,0 +1,36 @@
+img {
+	width: 200px;
+}
+
+body {
+	background-color: yellow;
+}
+
+h1 {
+	font-family: Arial;
+	background-color: blue;
+	color: white;
+
+}
+
+div {
+	margin: 20px;
+	padding: 20px;
+	border: black 1px dashed;
+}
+
+#poem {
+	display: inline-block; /*defalut display is "block*/
+	background-color: white;
+}
+
+/*this is a comment*/
+#abusive {
+	display: inline-block;
+	background-color: red;
+}
+
+#poemrepeat {
+	display: inline-block; /*defalut display is "block*/
+	background-color: lavender;
+}
